@@ -48,3 +48,6 @@ Create a GitHub Source button:
 stomata, microscopy, count, aperture, conductance, interactive, click
 
 ## Citations
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10520121.svg)](https://doi.org/10.5281/zenodo.10520121)
+
